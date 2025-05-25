@@ -28,4 +28,4 @@ A simple and clean custom configuration for [MangoHud](https://github.com/flight
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/mangohud-conf.git
+   git clone https://github.com/SUDOER1337/mangohud-conf.git
